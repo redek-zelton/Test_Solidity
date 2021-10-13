@@ -1,6 +1,6 @@
 pragma solidity >=0.7.0 <0.9.0;
 
-contract TestOperation{
+contract TestLoop{
     uint256 private number;
     constructor(){
         number =0;
